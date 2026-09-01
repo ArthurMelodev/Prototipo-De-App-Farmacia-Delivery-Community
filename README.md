@@ -1,11 +1,34 @@
+# 💊 Farmácia Delivery
 
-  # Prototipo de app Farmacia Delivery (Community)
+Meu primeiro projeto desenvolvido durante o curso de **Análise e Desenvolvimento de Sistemas (ADS)**. 🚀
 
-  This is a code bundle for Prototipo de app Farmacia Delivery (Community). The original project is available at https://www.figma.com/design/YPsCfTHuOlMgHyldJjKs5x/Prototipo-de-app-Farmacia-Delivery--Community-.
+A proposta foi criar um protótipo de um aplicativo de **Farmácia Delivery**, com uma interface simples e intuitiva para facilitar a busca por produtos e farmácias próximas.
 
-  ## Running the code
+### 📱 Sobre o projeto
 
-  Run `npm i` to install the dependencies.
+O protótipo conta com algumas funcionalidades como:
 
-  Run `npm run dev` to start the development server.
-  
+* 🏥 Visualização de farmácias próximas
+* 💊 Busca e visualização de produtos
+* 🛒 Carrinho de compras
+* 📦 Área de pedidos
+* 👤 Perfil do usuário
+* 🔔 Lembretes de medicamentos
+* 📱 Interface pensada para dispositivos móveis
+
+### 🛠️ Ferramentas utilizadas
+
+* Figma
+* Figma Make
+* UI/UX Design
+* Prototipação
+
+### 🎯 Objetivo
+
+O principal objetivo foi colocar em prática os conhecimentos que estou adquirindo em **ADS** e começar a desenvolver projetos para meu portfólio.
+
+Este é apenas o começo da minha jornada na área de tecnologia. 💻🚀
+
+### 🔗 Protótipo
+
+[**Acessá-lo**](https://www.figma.com/community/file/1619224307951821925/prototipo-farmacia-delivery)
